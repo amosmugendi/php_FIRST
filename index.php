@@ -21,6 +21,8 @@
         echo "<h2> My name is: $name <h2/>"
     ?>
         <button type="button" class="btn btn-warning">Click Me!</button>
+        <button type="button" class="btn btn-primary">Click Me!</button>
+        <button type="button" class="btn btn-sucess">Click Me!</button>
     <?php 
     require 'includes/footer.php'
     ?>
